@@ -2,7 +2,7 @@
 
 《WEB 前端高级应用》课程期末项目设计。Vue 3 + Vite + Element Plus 技术栈，功能完整、开箱即用。
 
-> **在线预览**：`https://<你的用户名>.github.io/<仓库名>/`（部署到 GitHub Pages 后替换此行）
+> **在线预览**：https://megumi-kato923.github.io/book-management/ （演示账号 `admin` / `123456`）
 
 ## 项目预览
 
